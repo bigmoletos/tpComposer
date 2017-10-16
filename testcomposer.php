@@ -3,6 +3,8 @@ require "vendor/autoload.php";
 //pour eviter qu'il y ait des contraintes composer crée un namespace'
 
 use Michelf\Markdown;
+use phpunit\phpunit;
+
 
 $my_text="bonjour **tout le monde** ceci est un contenu *markdow*";
 
