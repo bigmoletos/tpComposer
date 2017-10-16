@@ -1,0 +1,12 @@
+{
+    "name": "fd/tp-composer",
+    "authors": [
+        {
+            "name": "franck",
+            "email": "bigmoletos@yopmail.com"
+        }
+    ],
+    "require": {
+        "michelf/php-markdown": "^1.7"
+    }
+}
